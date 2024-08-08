@@ -9,7 +9,10 @@
 **Company Name :** Codetech it Solution
 
 **Project :** Weather App
-**Objective:** A user-friendly weather application that provides accurate and up-to-date weather information for any location worldwide.
+#Objective:
+
+A user-friendly weather application that provides accurate and up-to-date weather information for any location worldwide.
+
 # Overview
 The Weather App allows users to quickly and easily check the current weather and a 7-day forecast for any city. The app uses data from a reliable weather API to ensure accurate and timely information.
 
