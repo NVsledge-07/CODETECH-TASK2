@@ -8,7 +8,6 @@
 
 **Company Name :** Codetech it Solution
 
-**Overview of the Project**
 **Project :** Weather App
 **Objective:** A user-friendly weather application that provides accurate and up-to-date weather information for any location worldwide.
 # Overview
